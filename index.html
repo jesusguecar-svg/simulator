@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Texas Health, Life & Accident Exam Simulator</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>Texas Health, Life & Accident Exam Simulator</h1>
+    <p class="subtitle">Practice core concepts with randomized quizzes and instant feedback.</p>
+
+    <section class="controls">
+      <label>
+        Number of questions:
+        <select id="questionCount">
+          <option value="10">10</option>
+          <option value="20" selected>20</option>
+          <option value="30">30</option>
+          <option value="40">40</option>
+        </select>
+      </label>
+      <button id="startBtn">Start Quiz</button>
+      <button id="resetBtn" class="secondary">Reset</button>
+    </section>
+
+    <section id="quizArea" class="hidden"></section>
+
+    <section id="resultArea" class="hidden result"></section>
+  </main>
+
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
