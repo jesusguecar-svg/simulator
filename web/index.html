@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Texas General Lines Practice Engine</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <main class="app">
+    <h1>Texas General Lines Life, Accident, Health & HMO</h1>
+    <p>Choose 1-250 questions. Keyboard: A/B/C/D (or 1/2/3/4), Enter to continue.</p>
+
+    <section id="setup" class="card">
+      <label for="count">Question count</label>
+      <input id="count" type="number" min="1" max="250" value="25" />
+      <button id="startBtn">Start</button>
+    </section>
+
+    <section id="session" class="card hidden">
+      <div id="progress"></div>
+      <h2 id="question"></h2>
+      <div id="domain" class="muted"></div>
+      <div id="answers" class="answers"></div>
+      <div id="feedback" class="feedback"></div>
+      <button id="nextBtn" class="hidden">Next</button>
+    </section>
+
+    <section id="summary" class="card hidden"></section>
+  </main>
+  <script src="js/questions.js"></script>
+  <script src="js/session.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
