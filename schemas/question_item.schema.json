@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["id", "domain", "difficulty", "question", "choices", "correct_index", "correct_explanation", "wrong_explanations"],
+  "properties": {
+    "id": {"type": "string"},
+    "domain": {"type": "string"},
+    "difficulty": {"type": "string", "enum": ["easy", "medium", "hard"]},
+    "question": {"type": "string"},
+    "choices": {"type": "array", "minItems": 4, "maxItems": 4, "items": {"type": "string"}},
+    "correct_index": {"type": "integer", "minimum": 0, "maximum": 3},
+    "correct_explanation": {"type": "string"},
+    "wrong_explanations": {
+      "type": "object",
+      "required": ["0", "1", "2", "3"],
+      "properties": {"0": {"type":"string"}, "1": {"type":"string"}, "2": {"type":"string"}, "3": {"type":"string"}}
+    }
+  }
+}
