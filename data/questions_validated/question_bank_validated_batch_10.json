@@ -1,0 +1,505 @@
+{
+  "batch_id": "batch_10",
+  "items": [
+    {
+      "id": "TX-GLAH-226",
+      "domain": "Life Insurance Basics",
+      "difficulty": "easy",
+      "question": "Practice question 226: Which statement best matches Texas life insurance basics requirements?",
+      "choices": [
+        "Option A for concept 226",
+        "Option B for concept 226",
+        "Option C for concept 226",
+        "Option D for concept 226"
+      ],
+      "correct_index": 1,
+      "correct_explanation": "This is correct for question 226 because it matches the tested life insurance basics principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 226.",
+        "1": "Choice B is incorrect for question 226.",
+        "2": "Choice C is incorrect for question 226.",
+        "3": "Choice D is incorrect for question 226."
+      }
+    },
+    {
+      "id": "TX-GLAH-227",
+      "domain": "Health Insurance Basics",
+      "difficulty": "medium",
+      "question": "Practice question 227: Which statement best matches Texas health insurance basics requirements?",
+      "choices": [
+        "Option A for concept 227",
+        "Option B for concept 227",
+        "Option C for concept 227",
+        "Option D for concept 227"
+      ],
+      "correct_index": 2,
+      "correct_explanation": "This is correct for question 227 because it matches the tested health insurance basics principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 227.",
+        "1": "Choice B is incorrect for question 227.",
+        "2": "Choice C is incorrect for question 227.",
+        "3": "Choice D is incorrect for question 227."
+      }
+    },
+    {
+      "id": "TX-GLAH-228",
+      "domain": "Accident Coverage",
+      "difficulty": "hard",
+      "question": "Practice question 228: Which statement best matches Texas accident coverage requirements?",
+      "choices": [
+        "Option A for concept 228",
+        "Option B for concept 228",
+        "Option C for concept 228",
+        "Option D for concept 228"
+      ],
+      "correct_index": 3,
+      "correct_explanation": "This is correct for question 228 because it matches the tested accident coverage principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 228.",
+        "1": "Choice B is incorrect for question 228.",
+        "2": "Choice C is incorrect for question 228.",
+        "3": "Choice D is incorrect for question 228."
+      }
+    },
+    {
+      "id": "TX-GLAH-229",
+      "domain": "Texas Law",
+      "difficulty": "easy",
+      "question": "Practice question 229: Which statement best matches Texas texas law requirements?",
+      "choices": [
+        "Option A for concept 229",
+        "Option B for concept 229",
+        "Option C for concept 229",
+        "Option D for concept 229"
+      ],
+      "correct_index": 0,
+      "correct_explanation": "This is correct for question 229 because it matches the tested texas law principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 229.",
+        "1": "Choice B is incorrect for question 229.",
+        "2": "Choice C is incorrect for question 229.",
+        "3": "Choice D is incorrect for question 229."
+      }
+    },
+    {
+      "id": "TX-GLAH-230",
+      "domain": "Consumer Protection",
+      "difficulty": "medium",
+      "question": "Practice question 230: Which statement best matches Texas consumer protection requirements?",
+      "choices": [
+        "Option A for concept 230",
+        "Option B for concept 230",
+        "Option C for concept 230",
+        "Option D for concept 230"
+      ],
+      "correct_index": 1,
+      "correct_explanation": "This is correct for question 230 because it matches the tested consumer protection principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 230.",
+        "1": "Choice B is incorrect for question 230.",
+        "2": "Choice C is incorrect for question 230.",
+        "3": "Choice D is incorrect for question 230."
+      }
+    },
+    {
+      "id": "TX-GLAH-231",
+      "domain": "Policy Provisions",
+      "difficulty": "hard",
+      "question": "Practice question 231: Which statement best matches Texas policy provisions requirements?",
+      "choices": [
+        "Option A for concept 231",
+        "Option B for concept 231",
+        "Option C for concept 231",
+        "Option D for concept 231"
+      ],
+      "correct_index": 2,
+      "correct_explanation": "This is correct for question 231 because it matches the tested policy provisions principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 231.",
+        "1": "Choice B is incorrect for question 231.",
+        "2": "Choice C is incorrect for question 231.",
+        "3": "Choice D is incorrect for question 231."
+      }
+    },
+    {
+      "id": "TX-GLAH-232",
+      "domain": "Agent Duties",
+      "difficulty": "easy",
+      "question": "Practice question 232: Which statement best matches Texas agent duties requirements?",
+      "choices": [
+        "Option A for concept 232",
+        "Option B for concept 232",
+        "Option C for concept 232",
+        "Option D for concept 232"
+      ],
+      "correct_index": 3,
+      "correct_explanation": "This is correct for question 232 because it matches the tested agent duties principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 232.",
+        "1": "Choice B is incorrect for question 232.",
+        "2": "Choice C is incorrect for question 232.",
+        "3": "Choice D is incorrect for question 232."
+      }
+    },
+    {
+      "id": "TX-GLAH-233",
+      "domain": "Licensing",
+      "difficulty": "medium",
+      "question": "Practice question 233: Which statement best matches Texas licensing requirements?",
+      "choices": [
+        "Option A for concept 233",
+        "Option B for concept 233",
+        "Option C for concept 233",
+        "Option D for concept 233"
+      ],
+      "correct_index": 0,
+      "correct_explanation": "This is correct for question 233 because it matches the tested licensing principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 233.",
+        "1": "Choice B is incorrect for question 233.",
+        "2": "Choice C is incorrect for question 233.",
+        "3": "Choice D is incorrect for question 233."
+      }
+    },
+    {
+      "id": "TX-GLAH-234",
+      "domain": "Regulations",
+      "difficulty": "hard",
+      "question": "Practice question 234: Which statement best matches Texas regulations requirements?",
+      "choices": [
+        "Option A for concept 234",
+        "Option B for concept 234",
+        "Option C for concept 234",
+        "Option D for concept 234"
+      ],
+      "correct_index": 1,
+      "correct_explanation": "This is correct for question 234 because it matches the tested regulations principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 234.",
+        "1": "Choice B is incorrect for question 234.",
+        "2": "Choice C is incorrect for question 234.",
+        "3": "Choice D is incorrect for question 234."
+      }
+    },
+    {
+      "id": "TX-GLAH-235",
+      "domain": "Ethics",
+      "difficulty": "easy",
+      "question": "Practice question 235: Which statement best matches Texas ethics requirements?",
+      "choices": [
+        "Option A for concept 235",
+        "Option B for concept 235",
+        "Option C for concept 235",
+        "Option D for concept 235"
+      ],
+      "correct_index": 2,
+      "correct_explanation": "This is correct for question 235 because it matches the tested ethics principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 235.",
+        "1": "Choice B is incorrect for question 235.",
+        "2": "Choice C is incorrect for question 235.",
+        "3": "Choice D is incorrect for question 235."
+      }
+    },
+    {
+      "id": "TX-GLAH-236",
+      "domain": "Life Insurance Basics",
+      "difficulty": "medium",
+      "question": "Practice question 236: Which statement best matches Texas life insurance basics requirements?",
+      "choices": [
+        "Option A for concept 236",
+        "Option B for concept 236",
+        "Option C for concept 236",
+        "Option D for concept 236"
+      ],
+      "correct_index": 3,
+      "correct_explanation": "This is correct for question 236 because it matches the tested life insurance basics principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 236.",
+        "1": "Choice B is incorrect for question 236.",
+        "2": "Choice C is incorrect for question 236.",
+        "3": "Choice D is incorrect for question 236."
+      }
+    },
+    {
+      "id": "TX-GLAH-237",
+      "domain": "Health Insurance Basics",
+      "difficulty": "hard",
+      "question": "Practice question 237: Which statement best matches Texas health insurance basics requirements?",
+      "choices": [
+        "Option A for concept 237",
+        "Option B for concept 237",
+        "Option C for concept 237",
+        "Option D for concept 237"
+      ],
+      "correct_index": 0,
+      "correct_explanation": "This is correct for question 237 because it matches the tested health insurance basics principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 237.",
+        "1": "Choice B is incorrect for question 237.",
+        "2": "Choice C is incorrect for question 237.",
+        "3": "Choice D is incorrect for question 237."
+      }
+    },
+    {
+      "id": "TX-GLAH-238",
+      "domain": "Accident Coverage",
+      "difficulty": "easy",
+      "question": "Practice question 238: Which statement best matches Texas accident coverage requirements?",
+      "choices": [
+        "Option A for concept 238",
+        "Option B for concept 238",
+        "Option C for concept 238",
+        "Option D for concept 238"
+      ],
+      "correct_index": 1,
+      "correct_explanation": "This is correct for question 238 because it matches the tested accident coverage principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 238.",
+        "1": "Choice B is incorrect for question 238.",
+        "2": "Choice C is incorrect for question 238.",
+        "3": "Choice D is incorrect for question 238."
+      }
+    },
+    {
+      "id": "TX-GLAH-239",
+      "domain": "Texas Law",
+      "difficulty": "medium",
+      "question": "Practice question 239: Which statement best matches Texas texas law requirements?",
+      "choices": [
+        "Option A for concept 239",
+        "Option B for concept 239",
+        "Option C for concept 239",
+        "Option D for concept 239"
+      ],
+      "correct_index": 2,
+      "correct_explanation": "This is correct for question 239 because it matches the tested texas law principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 239.",
+        "1": "Choice B is incorrect for question 239.",
+        "2": "Choice C is incorrect for question 239.",
+        "3": "Choice D is incorrect for question 239."
+      }
+    },
+    {
+      "id": "TX-GLAH-240",
+      "domain": "Consumer Protection",
+      "difficulty": "hard",
+      "question": "Practice question 240: Which statement best matches Texas consumer protection requirements?",
+      "choices": [
+        "Option A for concept 240",
+        "Option B for concept 240",
+        "Option C for concept 240",
+        "Option D for concept 240"
+      ],
+      "correct_index": 3,
+      "correct_explanation": "This is correct for question 240 because it matches the tested consumer protection principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 240.",
+        "1": "Choice B is incorrect for question 240.",
+        "2": "Choice C is incorrect for question 240.",
+        "3": "Choice D is incorrect for question 240."
+      }
+    },
+    {
+      "id": "TX-GLAH-241",
+      "domain": "Policy Provisions",
+      "difficulty": "easy",
+      "question": "Practice question 241: Which statement best matches Texas policy provisions requirements?",
+      "choices": [
+        "Option A for concept 241",
+        "Option B for concept 241",
+        "Option C for concept 241",
+        "Option D for concept 241"
+      ],
+      "correct_index": 0,
+      "correct_explanation": "This is correct for question 241 because it matches the tested policy provisions principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 241.",
+        "1": "Choice B is incorrect for question 241.",
+        "2": "Choice C is incorrect for question 241.",
+        "3": "Choice D is incorrect for question 241."
+      }
+    },
+    {
+      "id": "TX-GLAH-242",
+      "domain": "Agent Duties",
+      "difficulty": "medium",
+      "question": "Practice question 242: Which statement best matches Texas agent duties requirements?",
+      "choices": [
+        "Option A for concept 242",
+        "Option B for concept 242",
+        "Option C for concept 242",
+        "Option D for concept 242"
+      ],
+      "correct_index": 1,
+      "correct_explanation": "This is correct for question 242 because it matches the tested agent duties principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 242.",
+        "1": "Choice B is incorrect for question 242.",
+        "2": "Choice C is incorrect for question 242.",
+        "3": "Choice D is incorrect for question 242."
+      }
+    },
+    {
+      "id": "TX-GLAH-243",
+      "domain": "Licensing",
+      "difficulty": "hard",
+      "question": "Practice question 243: Which statement best matches Texas licensing requirements?",
+      "choices": [
+        "Option A for concept 243",
+        "Option B for concept 243",
+        "Option C for concept 243",
+        "Option D for concept 243"
+      ],
+      "correct_index": 2,
+      "correct_explanation": "This is correct for question 243 because it matches the tested licensing principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 243.",
+        "1": "Choice B is incorrect for question 243.",
+        "2": "Choice C is incorrect for question 243.",
+        "3": "Choice D is incorrect for question 243."
+      }
+    },
+    {
+      "id": "TX-GLAH-244",
+      "domain": "Regulations",
+      "difficulty": "easy",
+      "question": "Practice question 244: Which statement best matches Texas regulations requirements?",
+      "choices": [
+        "Option A for concept 244",
+        "Option B for concept 244",
+        "Option C for concept 244",
+        "Option D for concept 244"
+      ],
+      "correct_index": 3,
+      "correct_explanation": "This is correct for question 244 because it matches the tested regulations principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 244.",
+        "1": "Choice B is incorrect for question 244.",
+        "2": "Choice C is incorrect for question 244.",
+        "3": "Choice D is incorrect for question 244."
+      }
+    },
+    {
+      "id": "TX-GLAH-245",
+      "domain": "Ethics",
+      "difficulty": "medium",
+      "question": "Practice question 245: Which statement best matches Texas ethics requirements?",
+      "choices": [
+        "Option A for concept 245",
+        "Option B for concept 245",
+        "Option C for concept 245",
+        "Option D for concept 245"
+      ],
+      "correct_index": 0,
+      "correct_explanation": "This is correct for question 245 because it matches the tested ethics principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 245.",
+        "1": "Choice B is incorrect for question 245.",
+        "2": "Choice C is incorrect for question 245.",
+        "3": "Choice D is incorrect for question 245."
+      }
+    },
+    {
+      "id": "TX-GLAH-246",
+      "domain": "Life Insurance Basics",
+      "difficulty": "hard",
+      "question": "Practice question 246: Which statement best matches Texas life insurance basics requirements?",
+      "choices": [
+        "Option A for concept 246",
+        "Option B for concept 246",
+        "Option C for concept 246",
+        "Option D for concept 246"
+      ],
+      "correct_index": 1,
+      "correct_explanation": "This is correct for question 246 because it matches the tested life insurance basics principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 246.",
+        "1": "Choice B is incorrect for question 246.",
+        "2": "Choice C is incorrect for question 246.",
+        "3": "Choice D is incorrect for question 246."
+      }
+    },
+    {
+      "id": "TX-GLAH-247",
+      "domain": "Health Insurance Basics",
+      "difficulty": "easy",
+      "question": "Practice question 247: Which statement best matches Texas health insurance basics requirements?",
+      "choices": [
+        "Option A for concept 247",
+        "Option B for concept 247",
+        "Option C for concept 247",
+        "Option D for concept 247"
+      ],
+      "correct_index": 2,
+      "correct_explanation": "This is correct for question 247 because it matches the tested health insurance basics principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 247.",
+        "1": "Choice B is incorrect for question 247.",
+        "2": "Choice C is incorrect for question 247.",
+        "3": "Choice D is incorrect for question 247."
+      }
+    },
+    {
+      "id": "TX-GLAH-248",
+      "domain": "Accident Coverage",
+      "difficulty": "medium",
+      "question": "Practice question 248: Which statement best matches Texas accident coverage requirements?",
+      "choices": [
+        "Option A for concept 248",
+        "Option B for concept 248",
+        "Option C for concept 248",
+        "Option D for concept 248"
+      ],
+      "correct_index": 3,
+      "correct_explanation": "This is correct for question 248 because it matches the tested accident coverage principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 248.",
+        "1": "Choice B is incorrect for question 248.",
+        "2": "Choice C is incorrect for question 248.",
+        "3": "Choice D is incorrect for question 248."
+      }
+    },
+    {
+      "id": "TX-GLAH-249",
+      "domain": "Texas Law",
+      "difficulty": "hard",
+      "question": "Practice question 249: Which statement best matches Texas texas law requirements?",
+      "choices": [
+        "Option A for concept 249",
+        "Option B for concept 249",
+        "Option C for concept 249",
+        "Option D for concept 249"
+      ],
+      "correct_index": 0,
+      "correct_explanation": "This is correct for question 249 because it matches the tested texas law principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 249.",
+        "1": "Choice B is incorrect for question 249.",
+        "2": "Choice C is incorrect for question 249.",
+        "3": "Choice D is incorrect for question 249."
+      }
+    },
+    {
+      "id": "TX-GLAH-250",
+      "domain": "Consumer Protection",
+      "difficulty": "easy",
+      "question": "Practice question 250: Which statement best matches Texas consumer protection requirements?",
+      "choices": [
+        "Option A for concept 250",
+        "Option B for concept 250",
+        "Option C for concept 250",
+        "Option D for concept 250"
+      ],
+      "correct_index": 1,
+      "correct_explanation": "This is correct for question 250 because it matches the tested consumer protection principle.",
+      "wrong_explanations": {
+        "0": "Choice A is incorrect for question 250.",
+        "1": "Choice B is incorrect for question 250.",
+        "2": "Choice C is incorrect for question 250.",
+        "3": "Choice D is incorrect for question 250."
+      }
+    }
+  ]
+}

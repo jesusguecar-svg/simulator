@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["batch_id", "items"],
+  "properties": {
+    "batch_id": {"type": "string"},
+    "items": {
+      "type": "array",
+      "items": {"$ref": "question_item.schema.json"}
+    }
+  }
+}

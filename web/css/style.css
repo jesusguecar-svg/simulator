@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #0f172a; color: #e2e8f0; }
+.app { max-width: 860px; margin: 0 auto; padding: 1rem; }
+.card { background: #111827; border: 1px solid #334155; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.answers { display: grid; gap: .5rem; margin-top: .75rem; }
+.answers button { text-align: left; padding: .7rem; border-radius: 6px; border: 1px solid #475569; background: #1e293b; color: #e2e8f0; }
+.answers button:hover { background: #334155; }
+.feedback { margin-top: .75rem; }
+.muted { color: #94a3b8; }
+.correct { color: #86efac; }
+.incorrect { color: #fca5a5; }
